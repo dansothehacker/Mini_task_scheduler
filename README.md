@@ -1,5 +1,5 @@
 # Mini_task_scheduler
-#Python simulation of CPU scheduling algorithms (FCFS, SJN, RR, Priority) with Gantt chart visualization.
+Python simulation of CPU scheduling algorithms (FCFS, SJN, RR, Priority) with Gantt chart visualization.
 processes = [
     {"pid": "P1", "arrival": 0, "burst": 5, "priority": 2},
     {"pid": "P2", "arrival": 1, "burst": 3, "priority": 1},
